@@ -34,7 +34,6 @@ st.markdown(f"""
 """)
 
 
-
 def generate_ai_comment(player_data):
     goals = player_data['Per 90 Minutes_Gls']
     xg = player_data['Per 90 Minutes_xG']
